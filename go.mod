@@ -1,4 +1,4 @@
-module github.com/adnsio/lambda-gateway
+module github.com/adnsio/lambda-router
 
 go 1.12
 

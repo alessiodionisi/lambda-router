@@ -1,4 +1,4 @@
-package lambda_gateway
+package lambda_router
 
 import (
 	"context"
